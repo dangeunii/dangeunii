@@ -25,7 +25,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-![dangeunii](https://github-readme-stats.vercel.app/api?username=dangeunii&show_icons=true)
 
 **📬: Contacts**
 [![Instagram](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/dangeuniii/)](https://instagram.com/dangeuniii) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:impine0.0r@gmail.com)](mailto:impine0.0r@gmail.com)
