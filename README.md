@@ -3,6 +3,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&theme=tokyonight&height=100&section=header&text=Welcome%20to%20Dangeunii's%20Github✨&fontSize=30)
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dangeunii&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/dangeunii?pet-id=680309843397726919"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 **About me**
 
 - 💼 I want to be a BackEnd Engineer
